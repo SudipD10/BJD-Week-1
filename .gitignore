@@ -9,7 +9,7 @@ out/
 .factorypath
 .project
 .settings
-.springBeans
+.spring
 .sts4-cache
 bin/
 !**/src/main/**/bin/
