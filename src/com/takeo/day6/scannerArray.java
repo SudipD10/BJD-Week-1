@@ -26,6 +26,6 @@ public class scannerArray {
         }
 
         System.out.println(" Sum of all numbers you entered is " + result);
-
+        scanner.close();
     }
 }

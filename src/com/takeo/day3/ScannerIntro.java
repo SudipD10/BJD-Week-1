@@ -21,6 +21,7 @@ public class ScannerIntro {
          System.out.println(" You are " + age + " years old. ");
          System.out.println(" Your favourite number is " + favouriteNumber +" . ");
 
+         scanner.close();
 
 
      }
