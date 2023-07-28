@@ -1,4 +1,4 @@
-package com.takeo.day6;
+package com.takeo.week2day1;
 
 public class Arrays {
     public static void main(String[] args) {
